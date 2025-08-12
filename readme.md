@@ -22,4 +22,4 @@
 ---
 
 ## 📂 output
-![screenshot](C:\Users\giris\Desktop\Python Project\cgpa calculator\screenshot)
+![screenshot](4d8a1e21-5dfe-45f4-bfeb-d8055101f814.jpg)
