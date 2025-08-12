@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Grade_icon.svg" alt="SGPA Logo" width="100">
-  
+
   # 📊 SGPA Calculator
   
   Calculate your **Semester Grade Point Average (SGPA)** easily with this Python-based calculator.  
